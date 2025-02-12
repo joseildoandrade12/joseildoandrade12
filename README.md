@@ -1,4 +1,4 @@
-### Olá, sou o Joseildo Andrade 😁👋.
+### Olá, sou o Joseildo Andrade, estudante de programação atualmente no front-end.
 ### Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniorandrade12_/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/joseildoandrade)
@@ -14,6 +14,13 @@
   
 </div><br/>
 
+### Tecnólogias que estou estudando:
+
+<div style="display: inline_block"> <br/>
+  
+</div><br/>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joseildoandrade12&show_icons=true&theme=dracula&layout=compact)
 
-### Desenvolvedor Front-end iniciante, em busca de mais conhecimento e de me aprimorar sempre.
+### Desenvolvedor Front-end iniciante, em busca de mais conhecimento e de Aprimoramento.
