@@ -1,5 +1,4 @@
-### Olá, sou o Joseildo Andrade, estudante de programação atualmente no front-end.
-### Desenvolvedor Front-end, em busca de mais conhecimento e aprimoramento.
+### Olá, sou o Joseildo Andrade, desenvolvedor front-end, amante da área da tecnológica e buscando sempre aprimorar minhas habilidades .
 ### Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniorandrade12_/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/joseildoandrade)
