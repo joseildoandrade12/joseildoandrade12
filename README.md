@@ -3,11 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniorandrade12_/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/joseildoandrade)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseildoandrade12&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseildoandrade12&show_icons=true&theme=dracula&layout=compact"/>
-</div>
-
 ##
 
 ### Tecnólogias que tenho conhecimento:
@@ -38,10 +33,4 @@
   <img align="center" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>
   <img align="center" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular"/>
 </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joseildoandrade12/joseildoandrade12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joseildoandrade12/joseildoandrade12/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joseildoandrade12/joseildoandrade12/output/github-contribution-grid-snake.svg">
-</picture>
 
