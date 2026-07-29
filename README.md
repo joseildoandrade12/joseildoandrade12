@@ -16,21 +16,3 @@
   <img align="center" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue"/>
   <img align="center" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>
 </div>
-
-##
-
-### Tecnólogias que estou estudando:
-
-<div style="display: inline_block"> 
-  <img align="center" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node"/>
-</div>
-
-##
-
-### Tecnólogias que pretendo aprender:
-
-<div style="display: inline_block">
-  <img align="center" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>
-  <img align="center" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular"/>
-</div>
-
